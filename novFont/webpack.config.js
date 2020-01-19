@@ -4,7 +4,7 @@ var webpack= require('webpack');
 var path =require('path');
 module.exports={//--------------
 //debugging easier
-devtool:'inline-sourse-map',
+devtool:'inline-source-map',
 
 entry:{
 	//build garne file
